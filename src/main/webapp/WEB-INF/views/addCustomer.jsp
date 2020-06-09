@@ -3,9 +3,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Insert the CustomerDetails title here</title>
 </head>
-<body>
+
+<body style=font-color:green>
 <form action  ="save_customer" method = "post"> 
 Customer Name:<input type ="text" name ="name"/>
 Customer lastName: <input type  = "text" name = "lastName"/>
@@ -16,6 +17,7 @@ Customer DOB:<input type  = "date" name ="dob" />
 <input type = "submit" value ="Login"/>
 
 </form>
+
 </body>
 </html>
 
