@@ -10,7 +10,7 @@
 <body>
 <form action  ="update_customer" method = "post"> 
 Customer Id:<input type ="number" name="id" value="${cus.id}" readonly = "readonly"/>
-Customer Name:<input type ="text" name ="name" value ="${cus.name }"/>
+Customer Name:<input type ="text" name ="name" value ="${cus.name}"/>
 Customer lastName: <input type  = "text" name = "lastName" value = "${cus.lastName}"/>
 Customer Email: <input type  = "email" name = "email" value ="${cus.email}"/>
 Customer UserName: <input type ="text"  name ="userName" value ="${cus.userName}"/>
