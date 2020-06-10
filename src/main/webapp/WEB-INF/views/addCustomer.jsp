@@ -6,7 +6,7 @@
 <title>Insert the CustomerDetails title here</title>
 </head>
 
-<body style=font-color:green>
+<body style=font-color:red>
 <form action  ="save_customer" method = "post"> 
 Customer Name:<input type ="text" name ="name"/>
 Customer lastName: <input type  = "text" name = "lastName"/>
